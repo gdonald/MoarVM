@@ -1,3 +1,6 @@
++ Bump mimalloc to v3.5.0
++ Add MVM_COVERAGE_FILES env var for filtering coverage to matching source files
+
 New in 2026.08
 
 + Increase initial nursery size x 4 (memory being less of an issue)
